@@ -1,9 +1,10 @@
-Html Y
-Css Y
-JS Y
-Lua Y
-Java Y
-Python X
-Php X
-C# X
-Ruby X
+Name	Have File		File Includes More Information
+Html		Y						   Y
+Css			Y						   Y
+JS			Y						   Y
+Lua			Y						   Y
+Java		Y						   Y
+C#			Y						   Y
+Python		Y						   X
+Php			X						   X
+Ruby		X						   X

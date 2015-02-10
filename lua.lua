@@ -1,1 +1,8 @@
 print("Lua!")
+print("I used to use lua a LOT, and I mean a LOT")
+print("Lua is used a lot in places where programming is needed, but ease of use is also needed.")
+print("Some examples might be the Minecraft mods ComputerCraft and OpenComputers.")
+print("In a game called Garry\'s Mod, there is a built-in modding system where you can use lua to create anything that you want!")
+print("Some entire games are even written in lua!")
+print("But, after I started using java, I stopped using lua as much, since I was playing minecraft less and coding more.")
+print("But now that I am playing minecraft more again, I have been using lua a lot more to write code in OpenComputers.")
