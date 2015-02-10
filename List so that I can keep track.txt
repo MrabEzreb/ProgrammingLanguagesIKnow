@@ -1,8 +1,8 @@
 Html Y
 Css Y
 JS Y
-Lua X
-Java X
+Lua Y
+Java Y
 Python X
 Php X
 C# X
