@@ -6,5 +6,5 @@ Lua			Y						   Y
 Java		Y						   Y
 C#			Y						   Y
 Python		Y						   X
-Php			X						   X
-Ruby		X						   X
+Php			Y						   X
+Ruby		Y						   X
