@@ -5,6 +5,6 @@ JS			Y						   Y
 Lua			Y						   Y
 Java		Y						   Y
 C#			Y						   Y
-Python		Y						   X
-Php			Y						   X
-Ruby		Y						   X
+Python		Y						   Y
+Php			Y						   Y
+Ruby		Y						   Y

@@ -1,2 +1,6 @@
 alert "Hello! I know Ruby too!"
 alert ":D"
+alert "Just like python, I don't really have a firm grounding in it, but I do get the basic idea(s)"
+alert "I have gathered that its logical structures and such are a lot like lua, but, ya know, theres a lot more to a programming language than that."
+alert "XD"
+alert ":D"
