@@ -1,6 +1,36 @@
 h1 {
   /* Much like with HTML, I know pretty much everything that I really need. */
-  background-image: url("/css.png");
+  color: red;
   /* I might not know it all, but I know how it works, so I can do anything, everything, and whatever I want, */
   /* As long as W3Schools is open for all of the apis :D */
+}
+h3 {
+    color: green;
+}
+p {
+    color: blue;
+}
+@keyframes css {
+    0% {filter: grayscale(0%) sepia(0%) saturate(0%); }
+    25% {filter: grayscale(100%) sepia(0%) saturate(0%);}
+    50% {filter: grayscale(0%) sepia(100%) saturate(0%); }
+    75% {filter: grayscale(0%) sepia(0%) saturate(100%); }
+    100% {filter: grayscale(0%) sepia(0%) saturate(0%); }
+}
+@-webkit-keyframes css {
+    0% {-webkit-filter: grayscale(0%) sepia(0%) saturate(0%); }
+    25% {-webkit-filter: grayscale(100%) sepia(0%) saturate(0%);}
+    50% {-webkit-filter: grayscale(0%) sepia(100%) saturate(0%); }
+    75% {-webkit-filter: grayscale(0%) sepia(0%) saturate(100%); }
+    100% {-webkit-filter: grayscale(0%) sepia(0%) saturate(0%); }
+}
+img {
+    animation-name: css;
+    animation-duration: 10s;
+    animation-delay: 5s;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: css;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-delay: 5s;
+    -webkit-animation-iteration-count: infinite;
 }

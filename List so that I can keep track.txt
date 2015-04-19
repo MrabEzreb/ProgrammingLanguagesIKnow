@@ -1,11 +1,11 @@
-Name	Have File		File Includes More Information
-Html		Y						   Y
-Css			Y						   Y
-JS			Y						   Y
-Lua			Y						   Y
-Java		Y						   Y
-C#			Y						   Y
-Python		Y						   Y
-Php			Y						   Y
-Ruby		Y						   Y
-Scala		Y						   Y
+Name	Have File		File Includes More Information		Language is shown in github 
+Html		Y						   Y								Y
+Css			Y						   Y								N
+JS			Y						   Y								N
+Lua			Y						   Y								Y
+Java		Y						   Y								Y
+C#			Y						   Y								Y
+Python		Y						   Y								N
+Php			Y						   Y								Y
+Ruby		Y						   Y								N
+Scala		Y						   Y								Y
