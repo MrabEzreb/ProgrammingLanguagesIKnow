@@ -8,3 +8,4 @@ C#			Y						   Y
 Python		Y						   Y
 Php			Y						   Y
 Ruby		Y						   Y
+Scala		Y						   Y
