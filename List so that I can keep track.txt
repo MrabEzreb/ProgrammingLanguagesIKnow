@@ -1,6 +1,6 @@
 Name	Have File		File Includes More Information		Language is shown in github 
 Html		Y						   Y								Y
-Css			Y						   Y								N
+Css			Y						   Y								Y
 JS			Y						   Y								N
 Lua			Y						   Y								Y
 Java		Y						   Y								Y
@@ -8,4 +8,4 @@ C#			Y						   Y								Y
 Python		Y						   Y								N
 Php			Y						   Y								Y
 Ruby		Y						   Y								N
-Scala		Y						   Y								Y
+Scala		Y						   Y								N
